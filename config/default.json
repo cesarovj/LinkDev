@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://cesar4:cesar4@devlink.p6bvp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://cesar4:cesar4@devlink.p6bvp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken"
 }
