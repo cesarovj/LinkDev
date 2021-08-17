@@ -319,7 +319,7 @@ router.get('/github/:username', (req, res) => {
       headers: { 'user-agent': 'node.js' },
     };
 
-    request.get(options, (error, response, body) => {
+    request(options, (error, response, body) => {
       if (error) console.error(error);
 
       if (response.statusCode !== 200) {
