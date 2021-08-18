@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://cesar4:cesar4@devlink.p6bvp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "secrettoken",
-  "githubClientId": "d89ce3d443e99413ce65",
-  "githubSecret": "0a6a81aa2b441c0ce9942b955d6d414bc381b83e"
-}
